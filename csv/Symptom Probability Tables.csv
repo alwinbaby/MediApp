@@ -1,0 +1,6 @@
+Symptom,Probability,Not-Symptom,Not-Probability
+itching,0.137804878,not_itching,0.862195122
+skin_rash,0.1597560976,not_skin_rash,0.8402439024
+chills,0.162195122,not_chills,0.837804878
+vomiting,0.3890243902,not_vomiting,0.6109756098
+fatigue,0.3926829268,not_fatigue,0.6073170732

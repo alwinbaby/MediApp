@@ -1,0 +1,93 @@
+itching,skin_rash,not_chills,not_vomiting,not_fatigue,Fungal infection
+not_itching,skin_rash,not_chills,not_vomiting,not_fatigue,Fungal infection
+itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Fungal infection
+not_itching,not_skin_rash,chills,not_vomiting,not_fatigue,Allergy
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Allergy
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,GERD
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,GERD
+itching,not_skin_rash,not_chills,vomiting,not_fatigue,Chronic cholestasis
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Chronic cholestasis
+itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Chronic cholestasis
+itching,skin_rash,not_chills,not_vomiting,not_fatigue,Drug Reaction
+itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Drug Reaction
+not_itching,skin_rash,not_chills,not_vomiting,not_fatigue,Drug Reaction
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Peptic ulcer diseae
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Peptic ulcer diseae
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,AIDS
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Diabetes
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Diabetes
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Gastroenteritis
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Gastroenteritis
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Bronchial Asthma
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Bronchial Asthma
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Hypertension
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Migraine
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Cervical spondylosis
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Paralysis (brain hemorrhage)
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Paralysis (brain hemorrhage)
+itching,not_skin_rash,not_chills,vomiting,fatigue,Jaundice
+not_itching,not_skin_rash,not_chills,vomiting,fatigue,Jaundice
+itching,not_skin_rash,not_chills,not_vomiting,fatigue,Jaundice
+itching,not_skin_rash,not_chills,vomiting,not_fatigue,Jaundice
+not_itching,not_skin_rash,chills,vomiting,not_fatigue,Malaria
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Malaria
+not_itching,not_skin_rash,chills,not_vomiting,not_fatigue,Malaria
+itching,skin_rash,not_chills,not_vomiting,fatigue,Chicken pox
+not_itching,skin_rash,not_chills,not_vomiting,fatigue,Chicken pox
+itching,not_skin_rash,not_chills,not_vomiting,fatigue,Chicken pox
+itching,skin_rash,not_chills,not_vomiting,not_fatigue,Chicken pox
+not_itching,skin_rash,chills,vomiting,fatigue,Dengue
+not_itching,not_skin_rash,chills,vomiting,fatigue,Dengue
+not_itching,skin_rash,not_chills,vomiting,fatigue,Dengue
+not_itching,skin_rash,chills,not_vomiting,fatigue,Dengue
+not_itching,skin_rash,chills,vomiting,not_fatigue,Dengue
+not_itching,not_skin_rash,chills,vomiting,fatigue,Typhoid
+not_itching,not_skin_rash,chills,not_vomiting,fatigue,Typhoid
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,hepatitis A
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,hepatitis A
+itching,not_skin_rash,not_chills,not_vomiting,fatigue,Hepatitis B
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Hepatitis B
+itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Hepatitis B
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Hepatitis C
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Hepatitis C
+not_itching,not_skin_rash,not_chills,vomiting,fatigue,Hepatitis D
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Hepatitis D
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Hepatitis D
+not_itching,not_skin_rash,not_chills,vomiting,fatigue,Hepatitis E
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Hepatitis E
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Hepatitis E
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Alcoholic hepatitis
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Alcoholic hepatitis
+not_itching,not_skin_rash,chills,vomiting,fatigue,Tuberculosis
+not_itching,not_skin_rash,not_chills,vomiting,fatigue,Tuberculosis
+not_itching,not_skin_rash,chills,not_vomiting,fatigue,Tuberculosis
+not_itching,not_skin_rash,chills,vomiting,not_fatigue,Tuberculosis
+not_itching,not_skin_rash,chills,not_vomiting,fatigue,Common Cold
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Common Cold
+not_itching,not_skin_rash,chills,not_vomiting,not_fatigue,Common Cold
+not_itching,not_skin_rash,chills,not_vomiting,fatigue,Pneumonia
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Pneumonia
+not_itching,not_skin_rash,chills,not_vomiting,not_fatigue,Pneumonia
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Dimorphic hemmorhoids(piles)
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Heart attack
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Heart attack
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Varicose veins
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Varicose veins
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Hypothyroidism
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Hypothyroidism
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Hyperthyroidism
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Hyperthyroidism
+not_itching,not_skin_rash,not_chills,vomiting,fatigue,Hypoglycemia
+not_itching,not_skin_rash,not_chills,not_vomiting,fatigue,Hypoglycemia
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,Hypoglycemia
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Osteoarthristis
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Arthritis
+not_itching,not_skin_rash,not_chills,vomiting,not_fatigue,(vertigo) Paroymsal  Positional Vertigo
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,(vertigo) Paroymsal  Positional Vertigo
+not_itching,skin_rash,not_chills,not_vomiting,not_fatigue,Acne
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Acne
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Urinary tract infection
+not_itching,skin_rash,not_chills,not_vomiting,not_fatigue,Psoriasis
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Psoriasis
+not_itching,skin_rash,not_chills,not_vomiting,not_fatigue,Impetigo
+not_itching,not_skin_rash,not_chills,not_vomiting,not_fatigue,Impetigo
